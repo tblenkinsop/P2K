@@ -6,7 +6,7 @@ Spreadsheet to display paleomagnetic data
 
 This macro enabled Excel spreadsheet creates symbols to represent paleomagnetic data in a KML file for visualizing using virtual globes such as Google Earth.
 
-Download the P2K spreadsheets and the zipped Cones and Arches Folders and P2KBoltana.kml into a single folder onto your desktop. Unzip the Cones and Arches folders.
+Download the P2K spreadsheets and the zipped cones and arches Folders and P2KBoltana.kml into a single folder onto your desktop. Unzip the cones and arches folders.
 
 From your virtual globe, open the example file P2KBoltana.kml in the P2Kfolder. You can appreciate all the basic attributes of P2K from this example. If you additionally open S2KBoltana.kml, you can see structural symbols corresponding to the bedding orientations at each station.
 
