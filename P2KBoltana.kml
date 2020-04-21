@@ -1,0 +1,4025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>P2K-15-10-13</name>
+    <visibility>0</visibility>
+     <open>0</open>
+      <Folder>
+      <name>SymbolMochalesTest</name>
+      <visibility>0</visibility>
+      <open>0</open>
+          <Placemark>
+             <name>MILL1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.021479 </longitude>
+                     <latitude> 42.473688 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 231.2 </heading>
+                     <tilt>-54 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone8r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MILL2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.020806 </longitude>
+                     <latitude> 42.474301 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 226.9 </heading>
+                     <tilt>-42.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone8r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.013349 </longitude>
+                     <latitude> 42.46792 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 204.5 </heading>
+                     <tilt>-52.5 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone10r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.012269 </longitude>
+                     <latitude> 42.467604 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 226 </heading>
+                     <tilt>-52.3 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone14r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.011407 </longitude>
+                     <latitude> 42.467833 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 214.6 </heading>
+                     <tilt>-32.4 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone28n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.009217 </longitude>
+                     <latitude> 42.468361 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 227.7 </heading>
+                     <tilt>-45.5 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone15n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA7</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.006305 </longitude>
+                     <latitude> 42.467952 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222.9 </heading>
+                     <tilt>-51.6 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone20r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.005606 </longitude>
+                     <latitude> 42.466034 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 242 </heading>
+                     <tilt>-43.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone8r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA8</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.003634 </longitude>
+                     <latitude> 42.466577 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222.1 </heading>
+                     <tilt>-49.8 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone15r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA9</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.000709 </longitude>
+                     <latitude> 42.469003 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222.2 </heading>
+                     <tilt>-34.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone19r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>SSA1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.026026 </longitude>
+                     <latitude> 42.307928 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 227.8 </heading>
+                     <tilt>-58.9 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone11r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.031375 </longitude>
+                     <latitude> 42.322132 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 219.2 </heading>
+                     <tilt>-57.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone7r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.038488 </longitude>
+                     <latitude> 42.323631 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 217.3 </heading>
+                     <tilt>-48.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone7r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.039973 </longitude>
+                     <latitude> 42.323543 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 220.9 </heading>
+                     <tilt>-45.5 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone6r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.041321 </longitude>
+                     <latitude> 42.316014 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 220 </heading>
+                     <tilt>-50.2 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone7r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.042662 </longitude>
+                     <latitude> 42.315868 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222.2 </heading>
+                     <tilt>-50.4 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone12r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.044919 </longitude>
+                     <latitude> 42.315882 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222.1 </heading>
+                     <tilt>-54.9 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone7r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.040774 </longitude>
+                     <latitude> 42.334919 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 235.9 </heading>
+                     <tilt>-52.2 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone7r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.041095 </longitude>
+                     <latitude> 42.335053 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222.6 </heading>
+                     <tilt>-45.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone21r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.043219 </longitude>
+                     <latitude> 42.334541 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 217.4 </heading>
+                     <tilt>-52.5 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone20n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.046349 </longitude>
+                     <latitude> 42.333028 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 232.5 </heading>
+                     <tilt>-50.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone16n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.055221 </longitude>
+                     <latitude> 42.33666 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 191.3 </heading>
+                     <tilt>-58.3 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone13n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.061103 </longitude>
+                     <latitude> 42.336487 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 220.2 </heading>
+                     <tilt>-45.5 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone11n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.094085 </longitude>
+                     <latitude> 42.295023 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 214.3 </heading>
+                     <tilt>-41.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone12r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS7</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.066537 </longitude>
+                     <latitude> 42.333691 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 220.3 </heading>
+                     <tilt>-41.3 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone8r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.098435 </longitude>
+                     <latitude> 42.293521 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 208.8 </heading>
+                     <tilt>-54.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone6r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.100934 </longitude>
+                     <latitude> 42.292468 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 213.6 </heading>
+                     <tilt>-44.9 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone9r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS8</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.070642 </longitude>
+                     <latitude> 42.334687 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 219.8 </heading>
+                     <tilt>-40.8 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone21r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.095682 </longitude>
+                     <latitude> 42.282177 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 228.6 </heading>
+                     <tilt>-31.6 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone15r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.103616 </longitude>
+                     <latitude> 42.291365 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 209 </heading>
+                     <tilt>-48.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone18n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.099172 </longitude>
+                     <latitude> 42.280122 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 213.5 </heading>
+                     <tilt>-24.2 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone15r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.1027 </longitude>
+                     <latitude> 42.278285 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 201.7 </heading>
+                     <tilt>-21.2 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone24r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.105365 </longitude>
+                     <latitude> 42.276227 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 210.1 </heading>
+                     <tilt>-40.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone13r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ERI1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.105805 </longitude>
+                     <latitude> 42.267687 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 211.6 </heading>
+                     <tilt>-55.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone16n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.114142 </longitude>
+                     <latitude> 42.264048 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 210.5 </heading>
+                     <tilt>-33.9 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone13n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.116451 </longitude>
+                     <latitude> 42.262341 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 215 </heading>
+                     <tilt>-52.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone14n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.117299 </longitude>
+                     <latitude> 42.26076 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 210.7 </heading>
+                     <tilt>-59.8 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone9n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ERI2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.119891 </longitude>
+                     <latitude> 42.259803 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 203.1 </heading>
+                     <tilt>-47.9 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone9n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.12001 </longitude>
+                     <latitude> 42.257667 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 202.7 </heading>
+                     <tilt>-26.4 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone10n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.120969 </longitude>
+                     <latitude> 42.256034 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 194 </heading>
+                     <tilt>-36.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone13r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ERI3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.124187 </longitude>
+                     <latitude> 42.254013 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 196.6 </heading>
+                     <tilt>-47.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone13n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.12311 </longitude>
+                     <latitude> 42.25453 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 177 </heading>
+                     <tilt>-47 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone7r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC7</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.124244 </longitude>
+                     <latitude> 42.25518 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 177.8 </heading>
+                     <tilt>-47.1 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone4n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ALM1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.067977 </longitude>
+                     <latitude> 42.247184 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 202.4 </heading>
+                     <tilt>-38.2 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone16n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.176652 </longitude>
+                     <latitude> 42.332208 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 193.3 </heading>
+                     <tilt>-52.2 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone14n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.156666 </longitude>
+                     <latitude> 42.319659 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 203.4 </heading>
+                     <tilt>-58.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone9n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.158807 </longitude>
+                     <latitude> 42.287993 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 207.6 </heading>
+                     <tilt>-32.8 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone14n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.137034 </longitude>
+                     <latitude> 42.274733 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 202.8 </heading>
+                     <tilt>-45.7 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone10n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGz1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.184617 </longitude>
+                     <latitude> 42.278661 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 197.9 </heading>
+                     <tilt>-42.4 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone18n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGz2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.168705 </longitude>
+                     <latitude> 42.270142 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 199.6 </heading>
+                     <tilt>-50.8 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone12n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGz3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.153059 </longitude>
+                     <latitude> 42.262011 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 197.5 </heading>
+                     <tilt>-46.6 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone14n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGa1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude>-0.041503 </longitude>
+                     <latitude> 42.470602 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 218 </heading>
+                     <tilt>-38 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone22r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGa2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude>-0.036291 </longitude>
+                     <latitude> 42.450639 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 221 </heading>
+                     <tilt>-34 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone20r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAM1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.010127 </longitude>
+                     <latitude> 42.420894 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 342 </heading>
+                     <tilt>-45 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone21n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J25</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.069693 </longitude>
+                     <latitude> 42.341002 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 218 </heading>
+                     <tilt>-49 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone39n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J36</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.181647 </longitude>
+                     <latitude> 42.361821 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 222 </heading>
+                     <tilt>-55 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone9n.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J38</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.074542 </longitude>
+                     <latitude> 42.341126 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 220 </heading>
+                     <tilt>-48 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone23r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J39</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.030234 </longitude>
+                     <latitude> 42.457049 </latitude>
+                     <altitude> 2000 </altitude>
+                 </Location>
+                 <Orientation>
+                     <heading> 243 </heading>
+                     <tilt>-47 </tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 50  </x>
+                     <y> 50  </y>
+                     <z> 50 </z>
+                 </Scale>
+                 <Link>
+                 <href>Cones/cone14r.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+       </Folder>
+      <Folder>
+      <name>DataMochalesTest</name>
+      <visibility>0</visibility>
+      <open>0</open>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MILL1<br/>Declination  =  51.2 ∞<br/>Inclination = 54∞<br/>Alpha95 = 8∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MILL1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.021479,42.473688,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MILL2<br/>Declination  =  46.9 ∞<br/>Inclination = 42.7∞<br/>Alpha95 = 8∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MILL2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.020806,42.474301,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA2<br/>Declination  =  24.5 ∞<br/>Inclination = 52.5∞<br/>Alpha95 = 10∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.013349,42.46792,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA3<br/>Declination  =  46 ∞<br/>Inclination = 52.3∞<br/>Alpha95 = 14∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.012269,42.467604,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA4<br/>Declination  =  34.6 ∞<br/>Inclination = 32.4∞<br/>Alpha95 = 28∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.011407,42.467833,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA5<br/>Declination  =  47.7 ∞<br/>Inclination = 45.5∞<br/>Alpha95 = 15∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA5</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.009217,42.468361,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA7<br/>Declination  =  42.9 ∞<br/>Inclination = 51.6∞<br/>Alpha95 = 20∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA7</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.006305,42.467952,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA6<br/>Declination  =  62 ∞<br/>Inclination = 43.1∞<br/>Alpha95 = 8∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA6</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.005606,42.466034,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA8<br/>Declination  =  42.1 ∞<br/>Inclination = 49.8∞<br/>Alpha95 = 15∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA8</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.003634,42.466577,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ARA9<br/>Declination  =  42.2 ∞<br/>Inclination = 34.7∞<br/>Alpha95 = 19∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ARA9</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.000709,42.469003,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  SSA1<br/>Declination  =  47.8 ∞<br/>Inclination = 58.9∞<br/>Alpha95 = 11∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>SSA1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.026026,42.307928,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  COS1<br/>Declination  =  39.2 ∞<br/>Inclination = 57.7∞<br/>Alpha95 = 7∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>COS1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.031375,42.322132,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  COS2<br/>Declination  =  37.3 ∞<br/>Inclination = 48.1∞<br/>Alpha95 = 7∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>COS2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.038488,42.323631,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  COS3<br/>Declination  =  40.9 ∞<br/>Inclination = 45.5∞<br/>Alpha95 = 6∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>COS3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.039973,42.323543,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  COS4<br/>Declination  =  40 ∞<br/>Inclination = 50.2∞<br/>Alpha95 = 7∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>COS4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.041321,42.316014,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  COS5<br/>Declination  =  42.2 ∞<br/>Inclination = 50.4∞<br/>Alpha95 = 12∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>COS5</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.042662,42.315868,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  COS6<br/>Declination  =  42.1 ∞<br/>Inclination = 54.9∞<br/>Alpha95 = 7∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>COS6</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.044919,42.315882,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS1<br/>Declination  =  55.9 ∞<br/>Inclination = 52.2∞<br/>Alpha95 = 7∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.040774,42.334919,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS2<br/>Declination  =  42.6 ∞<br/>Inclination = 45.1∞<br/>Alpha95 = 21∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.041095,42.335053,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS3<br/>Declination  =  37.4 ∞<br/>Inclination = 52.5∞<br/>Alpha95 = 20∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.043219,42.334541,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS4<br/>Declination  =  52.5 ∞<br/>Inclination = 50.1∞<br/>Alpha95 = 16∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.046349,42.333028,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS5<br/>Declination  =  11.3 ∞<br/>Inclination = 58.3∞<br/>Alpha95 = 13∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS5</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.055221,42.33666,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS6<br/>Declination  =  40.2 ∞<br/>Inclination = 45.5∞<br/>Alpha95 = 11∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS6</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.061103,42.336487,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MON1<br/>Declination  =  34.3 ∞<br/>Inclination = 41.1∞<br/>Alpha95 = 12∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MON1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.094085,42.295023,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS7<br/>Declination  =  40.3 ∞<br/>Inclination = 41.3∞<br/>Alpha95 = 8∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS7</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.066537,42.333691,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MON2<br/>Declination  =  28.8 ∞<br/>Inclination = 54.7∞<br/>Alpha95 = 6∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MON2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.098435,42.293521,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MON3<br/>Declination  =  33.6 ∞<br/>Inclination = 44.9∞<br/>Alpha95 = 9∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MON3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.100934,42.292468,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAS8<br/>Declination  =  39.8 ∞<br/>Inclination = 40.8∞<br/>Alpha95 = 21∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAS8</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.070642,42.334687,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  OLS1<br/>Declination  =  48.6 ∞<br/>Inclination = 31.6∞<br/>Alpha95 = 15∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>OLS1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.095682,42.282177,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MON4<br/>Declination  =  29 ∞<br/>Inclination = 48.7∞<br/>Alpha95 = 18∞<br/>Polarity = N<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MON4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.103616,42.291365,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  OLS2<br/>Declination  =  33.5 ∞<br/>Inclination = 24.2∞<br/>Alpha95 = 15∞<br/>Polarity = R<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>OLS2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.099172,42.280122,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  OLS3<br/>Declination  =  21.7 ∞<br/>Inclination = 21.2∞<br/>Alpha95 = 24∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>OLS3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.1027,42.278285,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  OLS4<br/>Declination  =  30.1 ∞<br/>Inclination = 40.7∞<br/>Alpha95 = 13∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2011 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>OLS4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.105365,42.276227,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ERI1<br/>Declination  =  31.6 ∞<br/>Inclination = 55.1∞<br/>Alpha95 = 16∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ERI1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.105805,42.267687,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC3<br/>Declination  =  30.5 ∞<br/>Inclination = 33.9∞<br/>Alpha95 = 13∞<br/>Polarity = N<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.114142,42.264048,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC2<br/>Declination  =  35 ∞<br/>Inclination = 52.1∞<br/>Alpha95 = 14∞<br/>Polarity = N<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.116451,42.262341,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC1<br/>Declination  =  30.7 ∞<br/>Inclination = 59.8∞<br/>Alpha95 = 9∞<br/>Polarity = N<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.117299,42.26076,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ERI2<br/>Declination  =  23.1 ∞<br/>Inclination = 47.9∞<br/>Alpha95 = 9∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ERI2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.119891,42.259803,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC4<br/>Declination  =  22.7 ∞<br/>Inclination = 26.4∞<br/>Alpha95 = 10∞<br/>Polarity = N<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.12001,42.257667,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC5<br/>Declination  =  14 ∞<br/>Inclination = 36.1∞<br/>Alpha95 = 13∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC5</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.120969,42.256034,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ERI3<br/>Declination  =  16.6 ∞<br/>Inclination = 47.1∞<br/>Alpha95 = 13∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ERI3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.124187,42.254013,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC6<br/>Declination  = -3 ∞<br/>Inclination = 47∞<br/>Alpha95 = 7∞<br/>Polarity = |-R|<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC6</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.12311,42.25453,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ESC7<br/>Declination  = -2.2 ∞<br/>Inclination = 47.1∞<br/>Alpha95 = 4∞<br/>Polarity = N<br/>Author: Mochales et al., 2012 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ESC7</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.124244,42.25518,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  ALM1<br/>Declination  =  22.4 ∞<br/>Inclination = 38.2∞<br/>Alpha95 = 16∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>ALM1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.067977,42.247184,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MED1<br/>Declination  =  13.3 ∞<br/>Inclination = 52.2∞<br/>Alpha95 = 14∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MED1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.176652,42.332208,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MED2<br/>Declination  =  23.4 ∞<br/>Inclination = 58.7∞<br/>Alpha95 = 9∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MED2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.156666,42.319659,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MED3<br/>Declination  =  27.6 ∞<br/>Inclination = 32.8∞<br/>Alpha95 = 14∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MED3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.158807,42.287993,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  MED4<br/>Declination  =  22.8 ∞<br/>Inclination = 45.7∞<br/>Alpha95 = 10∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>MED4</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.137034,42.274733,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  LIGz1<br/>Declination  =  17.9 ∞<br/>Inclination = 42.4∞<br/>Alpha95 = 18∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>LIGz1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.184617,42.278661,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  LIGz2<br/>Declination  =  19.6 ∞<br/>Inclination = 50.8∞<br/>Alpha95 = 12∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>LIGz2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.168705,42.270142,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  LIGz3<br/>Declination  =  17.5 ∞<br/>Inclination = 46.6∞<br/>Alpha95 = 14∞<br/>Polarity = N<br/>Author: Bentham, 1992 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>LIGz3</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.153059,42.262011,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  LIGa1<br/>Declination  =  38 ∞<br/>Inclination = 38∞<br/>Alpha95 = 22∞<br/>Polarity = |-R|<br/>Author: Pueyo, 2000 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>LIGa1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>-0.041503,42.470602,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  LIGa2<br/>Declination  =  41 ∞<br/>Inclination = 34∞<br/>Alpha95 = 20∞<br/>Polarity = |-R|<br/>Author: Pueyo, 2000 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>LIGa2</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>-0.036291,42.450639,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  CAM1<br/>Declination  =  162 ∞<br/>Inclination = 45∞<br/>Alpha95 = 21∞<br/>Polarity = N<br/>Author: Pueyo, 2000 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>CAM1</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.010127,42.420894,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  90J25<br/>Declination  =  38 ∞<br/>Inclination = 49∞<br/>Alpha95 = 39∞<br/>Polarity = N<br/>Author: Parés and Dinarès, 1993 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>90J25</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.069693,42.341002,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  90J36<br/>Declination  =  42 ∞<br/>Inclination = 55∞<br/>Alpha95 = 9∞<br/>Polarity = N<br/>Author: Parés and Dinarès, 1993 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>90J36</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.181647,42.361821,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  90J38<br/>Declination  =  40 ∞<br/>Inclination = 48∞<br/>Alpha95 = 23∞<br/>Polarity = |-R|<br/>Author: Parés and Dinarès, 1993 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>90J38</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.074542,42.341126,2000</coordinates>
+             </Point>
+             </Placemark>
+             <Style id="Ball">
+             <IconStyle>
+             <scale>0.2</scale>
+              <Icon>
+              <href>cones/WhiteSpot.gif</href>
+             </Icon>
+             </IconStyle>
+             <BalloonStyle>
+             <text>Site  90J39<br/>Declination  =  63 ∞<br/>Inclination = 47∞<br/>Alpha95 = 14∞<br/>Polarity = |-R|<br/>Author: Parés and Dinarès, 1993 <br/>Reference Declination= 4∞</text>
+            </BalloonStyle>
+             </Style>
+          <Placemark>
+             <name>90J39</name>
+             <gx:balloonVisibility>1</gx:balloonVisibility>
+                 <styleUrl>#Ball</styleUrl>
+             <Point>
+                 <extrude>1</extrude>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                   <coordinates>0.030234,42.457049,2000</coordinates>
+             </Point>
+             </Placemark>
+       </Folder>
+      <Folder>
+      <name>RotationSymbolMochalesTest</name>
+      <visibility>0</visibility>
+      <open>0</open>
+          <Placemark>
+             <name>MILL1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.021479 </longitude>
+                     <latitude> 42.473688 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/47CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MILL2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.020806 </longitude>
+                     <latitude> 42.474301 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/42CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.013349 </longitude>
+                     <latitude> 42.46792 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/20CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.012269 </longitude>
+                     <latitude> 42.467604 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/42CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.011407 </longitude>
+                     <latitude> 42.467833 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/30CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.009217 </longitude>
+                     <latitude> 42.468361 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/43CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA7</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.006305 </longitude>
+                     <latitude> 42.467952 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.005606 </longitude>
+                     <latitude> 42.466034 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/58CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA8</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.003634 </longitude>
+                     <latitude> 42.466577 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ARA9</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.000709 </longitude>
+                     <latitude> 42.469003 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>SSA1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.026026 </longitude>
+                     <latitude> 42.307928 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/43CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.031375 </longitude>
+                     <latitude> 42.322132 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/35CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.038488 </longitude>
+                     <latitude> 42.323631 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/33CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.039973 </longitude>
+                     <latitude> 42.323543 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/36CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.041321 </longitude>
+                     <latitude> 42.316014 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/36CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.042662 </longitude>
+                     <latitude> 42.315868 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>COS6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.044919 </longitude>
+                     <latitude> 42.315882 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.040774 </longitude>
+                     <latitude> 42.334919 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/51CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.041095 </longitude>
+                     <latitude> 42.335053 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.043219 </longitude>
+                     <latitude> 42.334541 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/33CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.046349 </longitude>
+                     <latitude> 42.333028 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/48CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.055221 </longitude>
+                     <latitude> 42.33666 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/7CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.061103 </longitude>
+                     <latitude> 42.336487 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/36CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.094085 </longitude>
+                     <latitude> 42.295023 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/30CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS7</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.066537 </longitude>
+                     <latitude> 42.333691 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/36CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.098435 </longitude>
+                     <latitude> 42.293521 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/24CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.100934 </longitude>
+                     <latitude> 42.292468 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/29CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAS8</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.070642 </longitude>
+                     <latitude> 42.334687 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/35CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.095682 </longitude>
+                     <latitude> 42.282177 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/44CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MON4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.103616 </longitude>
+                     <latitude> 42.291365 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/25CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.099172 </longitude>
+                     <latitude> 42.280122 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/29CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.1027 </longitude>
+                     <latitude> 42.278285 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/17CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>OLS4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.105365 </longitude>
+                     <latitude> 42.276227 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/26CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ERI1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.105805 </longitude>
+                     <latitude> 42.267687 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/27CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.114142 </longitude>
+                     <latitude> 42.264048 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/26CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.116451 </longitude>
+                     <latitude> 42.262341 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/31CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.117299 </longitude>
+                     <latitude> 42.26076 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/26CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ERI2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.119891 </longitude>
+                     <latitude> 42.259803 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/19CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.12001 </longitude>
+                     <latitude> 42.257667 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/18CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC5</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.120969 </longitude>
+                     <latitude> 42.256034 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/10CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ERI3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.124187 </longitude>
+                     <latitude> 42.254013 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/12CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC6</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.12311 </longitude>
+                     <latitude> 42.25453 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/7ACO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ESC7</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.124244 </longitude>
+                     <latitude> 42.25518 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/7ACO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>ALM1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.067977 </longitude>
+                     <latitude> 42.247184 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/18CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.176652 </longitude>
+                     <latitude> 42.332208 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/9CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.156666 </longitude>
+                     <latitude> 42.319659 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/19CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.158807 </longitude>
+                     <latitude> 42.287993 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/23CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>MED4</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.137034 </longitude>
+                     <latitude> 42.274733 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/18CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGz1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.184617 </longitude>
+                     <latitude> 42.278661 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/13CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGz2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.168705 </longitude>
+                     <latitude> 42.270142 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/15CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGz3</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.153059 </longitude>
+                     <latitude> 42.262011 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/13CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGa1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude>-0.041503 </longitude>
+                     <latitude> 42.470602 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/34CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>LIGa2</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude>-0.036291 </longitude>
+                     <latitude> 42.450639 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/37CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>CAM1</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.010127 </longitude>
+                     <latitude> 42.420894 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/158CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J25</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.069693 </longitude>
+                     <latitude> 42.341002 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/34CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J36</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.181647 </longitude>
+                     <latitude> 42.361821 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/38CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J38</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.074542 </longitude>
+                     <latitude> 42.341126 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/36CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+          <Placemark>
+             <name>90J39</name>
+             <Model>
+                 <altitudeMode>relativeToGround</altitudeMode>
+                 <Location>
+                     <longitude> 0.030234 </longitude>
+                     <latitude> 42.457049 </latitude>
+                     <altitude>1000</altitude>
+                 </Location>
+                 <Orientation>
+                     <heading>4</heading>
+                     <tilt>0</tilt>
+                     <roll> 0 </roll>
+                 </Orientation>
+                 <Scale>
+                     <x> 25  </x>
+                     <y> 25  </y>
+                     <z> 25 </z>
+                 </Scale>
+                 <Link>
+                 <href>arches/Finals/59CO.dae</href>
+                 </Link>
+                 </Model>
+             </Placemark>
+       </Folder>
+</Document>
+</kml>
